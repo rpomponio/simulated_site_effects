@@ -8,10 +8,12 @@ Haochang Shou | hshou@pennmedicine.upenn.edu
 ## Project Structure
 
 ```
-R/
+simulated_harmonization/
   app.R
   roi_function.R
   create_simulated_data.R
+  rsconnect/
+    ...
 README.md
 ```
 

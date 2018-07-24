@@ -5,6 +5,6 @@ account: rpomponio
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 387295
-bundleId: 1497917
+bundleId: 1497962
 url: https://rpomponio.shinyapps.io/simulated_harmonization/
-when: 1532468499.41598
+when: 1532470067.57567

@@ -1,0 +1,10 @@
+name: simulated_harmonization
+title:
+username:
+account: rpomponio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 387295
+bundleId: 1497917
+url: https://rpomponio.shinyapps.io/simulated_harmonization/
+when: 1532468499.41598

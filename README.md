@@ -14,3 +14,7 @@ R/
   create_simulated_data.R
 README.md
 ```
+
+## Interactive Simulation
+
+An interactive version of the simulated site effects along with harmonization can be found [here](https://rpomponio.shinyapps.io/simulated_harmonization/), using [shinyapps.io](https://www.shinyapps.io/) to host the web application.

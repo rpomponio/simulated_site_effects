@@ -3,7 +3,7 @@ An R (shiny) project. Simulates site effects (a.k.a "batch effects") that occur 
 
 ## Collaborators
 
-Haochang Shou | hshou@pennmedicine.upenn.edu
+Haochang Shou, Department of Biostatistics, Penn Med | hshou@pennmedicine.upenn.edu
 
 ## Project Structure
 
